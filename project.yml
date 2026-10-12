@@ -1,0 +1,15 @@
+slug: kyotocua-2026-07-public   # プロジェクトのフォルダ名と一致．一意
+category: 33_Talks   # 親フォルダ名と一致（31_Research 等）．30→50 の移動で変えない
+title: 「素粒子理論 あまりに非現実的しかし現実」の公開スライド   # プロジェクトの full タイトル
+summary: 京都市立芸術大学との交流会講義のスライドを GitHub で公開配布   # 1 行．リマインドに出す
+priority: low             # high / medium / low
+status: done               # active / waiting / postponed / done / archived
+started: 2026-07-30   # 立項日 YYYY-MM-DD．移行物は最古ファイルの日付
+deadline:
+  initial:                 # 着手時の期日．以後変えない
+  current:                 # 現在の期日．変更理由は commit メッセージに
+next:                      # 次の一手．1 行の要約のみ．詳細は束内の TODO.md
+from:
+  topics: []               # 引き継いだ 20_Resources の話題 ID
+  projects: [kyotocua-2026-07]             # 引き継いだ・由来する束の slug
+updated: 2026-10-12   # YYYY-MM-DD
